@@ -1,0 +1,3 @@
+[submodule "alalabala"]
+	path = alalabala
+	url = git@github.com:zffkj/alalabala.git
